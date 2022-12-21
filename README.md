@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=krieg.png" alt="logo" width="400" align="center">
+  <img src="krieg.png" alt="logo" width="400" align="center">
 </p>
 
 # krieg

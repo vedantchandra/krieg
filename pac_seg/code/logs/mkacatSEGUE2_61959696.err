@@ -1,0 +1,9 @@
+WARNING: leap-second auto-update failed due to the following exception: RuntimeError('Cache is locked after 5.01 s. This may indicate an astropy bug or that kill -9 was used. If you want to unlock the cache remove the directory /n/home02/pacargile/.astropy/cache/download/py3/lock.',) [astropy.time.core]
+WARNING: The following header keyword is invalid or follows an unrecognized non-standard convention:
+MC1TEMDN=-0.00000000000000E+00 / sp1 mech median temp                            [astropy.io.fits.card]
+WARNING: The following header keyword is invalid or follows an unrecognized non-standard convention:
+MC1TBCB =-0.00000000000000E+00 / sp1 mech Temp_Blue_Cam_Bot                      [astropy.io.fits.card]
+WARNING: The following header keyword is invalid or follows an unrecognized non-standard convention:
+MC1TBCT =-0.00000000000000E+00 / sp1 mech Temp_Blue_Cam_Top                      [astropy.io.fits.card]
+WARNING: The following header keyword is invalid or follows an unrecognized non-standard convention:
+MC1TRCB =-0.00000000000000E+00 / sp1 mech Temp_Red_Cam_Bot                       [astropy.io.fits.card]

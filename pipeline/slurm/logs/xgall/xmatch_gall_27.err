@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/n/home03/vchandra/outerhalo/09_sdss5/pipeline/02_xmatch_gall.py", line 33, in <module>
+    bigcat = charlie_cats[galidx]
+IndexError: list index out of range

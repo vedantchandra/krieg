@@ -1,0 +1,2 @@
+/var/slurmd/spool/slurmd/job26764212/slurm_script: line 15: 138029 Killed                  python -u 02_xmatch_gall.py
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=26764212.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

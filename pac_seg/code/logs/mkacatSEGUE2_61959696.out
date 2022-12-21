@@ -1,0 +1,2177 @@
+CPU USED: 
+model name	: Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz
+Wed Feb 16 10:44:40 EST 2022
+Found following tiles:
+['3227', '3196', '3257', '3211', '3301', '3237', '3238', '3247', '3182', '3377', '3299', '3246', '3185', '3210', '3222', '3175', '3327', '3160', '3138', '3150', '3161', '3223', '3130', '3285', '3234', '3329', '3254', '3261', '3109', '3325', '3114', '3236', '3406', '3132', '3442', '3390', '3334', '3367', '3131', '3180', '3170', '3317', '3324', '3171', '3172', '3259', '3239', '3245', '3315', '3243', '3122', '3134', '3216', '3152', '3250', '3110', '3189', '3297', '3207', '3251', '3454', '3176', '3208', '3467', '3292', '3459', '3153', '3121', '3335', '3195', '3242', '3116', '3244', '3225', '3318', '3173', '3240', '3183', '3298', '3145', '3290', '3228', '3304', '3312', '3179', '3386', '3158', '3174', '3375', '3308', '3326', '3151', '3187', '3311', '3310', '3457', '3106', '3233', '3288', '3426', '3429', '3314', '3388', '3162', '3255', '3296', '3226', '3235', '3300', '3141', '3221', '3206', '3133', '3214', '3295', '3192', '3407', '3181', '3428', '3143', '3408', '3427', '3137', '3148', '3224', '3319', '3194', '3252', '3154', '3263', '3480', '3289', '3303', '3321', '3328', '3184', '3135', '3264', '3287', '3466', '3209', '3384', '3126', '3149', '3374', '3155', '3177', '3178', '3291', '3248', '3157', '3146', '3232', '3313', '3212', '3115', '3198', '3306', '3229', '3127', '3159', '3123', '3387', '3166', '3105', '3169', '3373', '3258', '3241', '3293', '3156', '3253', '3286', '3215', '3230', '3305', '3129', '3362', '3167', '3265', '3186', '3111', '3395', '3112', '3213', '3193', '3205', '3128', '3249', '3307', '3478', '3331', '3260', '3404', '3380', '3144', '3188', '3262', '3142', '3231', '3320', '3368', '3284', '3294']
+-- Working on SEGUE-2 / 3227
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+20.0_+25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3227/acat.fits
+ -- Finished SEGUE-2 / 3227 : Time = 0:08:02.523692
+-- Working on SEGUE-2 / 3196
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3196/acat.fits
+ -- Finished SEGUE-2 / 3196 : Time = 0:02:17.853619
+-- Working on SEGUE-2 / 3257
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3257/acat.fits
+ -- Finished SEGUE-2 / 3257 : Time = 0:05:18.476268
+-- Working on SEGUE-2 / 3211
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3211/acat.fits
+ -- Finished SEGUE-2 / 3211 : Time = 0:03:00.167818
+-- Working on SEGUE-2 / 3301
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3301/acat.fits
+ -- Finished SEGUE-2 / 3301 : Time = 0:02:59.984364
+-- Working on SEGUE-2 / 3237
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3237/acat.fits
+ -- Finished SEGUE-2 / 3237 : Time = 0:03:00.540389
+-- Working on SEGUE-2 / 3238
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3238/acat.fits
+ -- Finished SEGUE-2 / 3238 : Time = 0:03:00.173752
+-- Working on SEGUE-2 / 3247
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3247/acat.fits
+ -- Finished SEGUE-2 / 3247 : Time = 0:02:59.979265
+-- Working on SEGUE-2 / 3182
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3182/acat.fits
+ -- Finished SEGUE-2 / 3182 : Time = 0:04:13.808845
+-- Working on SEGUE-2 / 3377
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3377/acat.fits
+ -- Finished SEGUE-2 / 3377 : Time = 0:03:00.470129
+-- Working on SEGUE-2 / 3299
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3299/acat.fits
+ -- Finished SEGUE-2 / 3299 : Time = 0:03:00.028754
+-- Working on SEGUE-2 / 3246
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3246/acat.fits
+ -- Finished SEGUE-2 / 3246 : Time = 0:03:00.158066
+-- Working on SEGUE-2 / 3185
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3185/acat.fits
+ -- Finished SEGUE-2 / 3185 : Time = 0:03:08.888459
+-- Working on SEGUE-2 / 3210
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-25.0_-20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3210/acat.fits
+ -- Finished SEGUE-2 / 3210 : Time = 0:07:28.904726
+-- Working on SEGUE-2 / 3222
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3222/acat.fits
+ -- Finished SEGUE-2 / 3222 : Time = 0:03:06.334162
+-- Working on SEGUE-2 / 3175
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3175/acat.fits
+ -- Finished SEGUE-2 / 3175 : Time = 0:02:20.406519
+-- Working on SEGUE-2 / 3327
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3327/acat.fits
+ -- Finished SEGUE-2 / 3327 : Time = 0:03:07.037234
+-- Working on SEGUE-2 / 3160
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+15.0_+20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3160/acat.fits
+ -- Finished SEGUE-2 / 3160 : Time = 0:06:19.485067
+-- Working on SEGUE-2 / 3138
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-25.0_-20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3138/acat.fits
+ -- Finished SEGUE-2 / 3138 : Time = 0:04:17.488613
+-- Working on SEGUE-2 / 3150
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3150/acat.fits
+ -- Finished SEGUE-2 / 3150 : Time = 0:03:03.922262
+-- Working on SEGUE-2 / 3161
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3161/acat.fits
+ -- Finished SEGUE-2 / 3161 : Time = 0:04:24.591843
+-- Working on SEGUE-2 / 3223
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3223/acat.fits
+ -- Finished SEGUE-2 / 3223 : Time = 0:03:05.737521
+-- Working on SEGUE-2 / 3130
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3130/acat.fits
+ -- Finished SEGUE-2 / 3130 : Time = 0:06:27.503614
+-- Working on SEGUE-2 / 3285
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3285/acat.fits
+ -- Finished SEGUE-2 / 3285 : Time = 0:03:05.751313
+-- Working on SEGUE-2 / 3234
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3234/acat.fits
+ -- Finished SEGUE-2 / 3234 : Time = 0:03:06.297349
+-- Working on SEGUE-2 / 3329
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3329/acat.fits
+ -- Finished SEGUE-2 / 3329 : Time = 0:03:06.517785
+-- Working on SEGUE-2 / 3254
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3254/acat.fits
+ -- Finished SEGUE-2 / 3254 : Time = 0:03:05.639745
+-- Working on SEGUE-2 / 3261
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3261/acat.fits
+ -- Finished SEGUE-2 / 3261 : Time = 0:03:05.852028
+-- Working on SEGUE-2 / 3109
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3109/acat.fits
+ -- Finished SEGUE-2 / 3109 : Time = 0:03:10.561516
+-- Working on SEGUE-2 / 3325
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3325/acat.fits
+ -- Finished SEGUE-2 / 3325 : Time = 0:03:05.217181
+-- Working on SEGUE-2 / 3114
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3114/acat.fits
+ -- Finished SEGUE-2 / 3114 : Time = 0:06:20.928649
+-- Working on SEGUE-2 / 3236
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3236/acat.fits
+ -- Finished SEGUE-2 / 3236 : Time = 0:03:07.794052
+-- Working on SEGUE-2 / 3406
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3406/acat.fits
+ -- Finished SEGUE-2 / 3406 : Time = 0:03:04.757861
+-- Working on SEGUE-2 / 3132
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3132/acat.fits
+ -- Finished SEGUE-2 / 3132 : Time = 0:03:08.021651
+-- Working on SEGUE-2 / 3442
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3442/acat.fits
+ -- Finished SEGUE-2 / 3442 : Time = 0:02:19.905936
+-- Working on SEGUE-2 / 3390
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3390/acat.fits
+ -- Finished SEGUE-2 / 3390 : Time = 0:03:02.790013
+-- Working on SEGUE-2 / 3334
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 4 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+06.0_+07.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+07.0_+08.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+08.0_+09.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+09.0_+10.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3334/acat.fits
+ -- Finished SEGUE-2 / 3334 : Time = 0:21:08.217560
+-- Working on SEGUE-2 / 3367
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3367/acat.fits
+ -- Finished SEGUE-2 / 3367 : Time = 0:03:10.366424
+-- Working on SEGUE-2 / 3131
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3131/acat.fits
+ -- Finished SEGUE-2 / 3131 : Time = 0:06:23.577292
+-- Working on SEGUE-2 / 3180
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3180/acat.fits
+ -- Finished SEGUE-2 / 3180 : Time = 0:03:06.255371
+-- Working on SEGUE-2 / 3170
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3170/acat.fits
+ -- Finished SEGUE-2 / 3170 : Time = 0:03:06.699943
+-- Working on SEGUE-2 / 3317
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3317/acat.fits
+ -- Finished SEGUE-2 / 3317 : Time = 0:02:20.122072
+-- Working on SEGUE-2 / 3324
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3324/acat.fits
+ -- Finished SEGUE-2 / 3324 : Time = 0:03:03.448149
+-- Working on SEGUE-2 / 3171
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3171/acat.fits
+ -- Finished SEGUE-2 / 3171 : Time = 0:03:03.318755
+-- Working on SEGUE-2 / 3172
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3172/acat.fits
+ -- Finished SEGUE-2 / 3172 : Time = 0:03:03.451346
+-- Working on SEGUE-2 / 3259
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3259/acat.fits
+ -- Finished SEGUE-2 / 3259 : Time = 0:03:03.662680
+-- Working on SEGUE-2 / 3239
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3239/acat.fits
+ -- Finished SEGUE-2 / 3239 : Time = 0:03:03.323049
+-- Working on SEGUE-2 / 3245
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3245/acat.fits
+ -- Finished SEGUE-2 / 3245 : Time = 0:03:03.630477
+-- Working on SEGUE-2 / 3315
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3315/acat.fits
+ -- Finished SEGUE-2 / 3315 : Time = 0:03:00.867958
+-- Working on SEGUE-2 / 3243
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3243/acat.fits
+ -- Finished SEGUE-2 / 3243 : Time = 0:03:01.293732
+-- Working on SEGUE-2 / 3122
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3122/acat.fits
+ -- Finished SEGUE-2 / 3122 : Time = 0:03:04.746866
+-- Working on SEGUE-2 / 3134
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3134/acat.fits
+ -- Finished SEGUE-2 / 3134 : Time = 0:03:04.694397
+-- Working on SEGUE-2 / 3216
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3216/acat.fits
+ -- Finished SEGUE-2 / 3216 : Time = 0:03:01.388107
+-- Working on SEGUE-2 / 3152
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3152/acat.fits
+ -- Finished SEGUE-2 / 3152 : Time = 0:03:01.480132
+-- Working on SEGUE-2 / 3250
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3250/acat.fits
+ -- Finished SEGUE-2 / 3250 : Time = 0:03:01.358846
+-- Working on SEGUE-2 / 3110
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3110/acat.fits
+ -- Finished SEGUE-2 / 3110 : Time = 0:03:05.251256
+-- Working on SEGUE-2 / 3189
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3189/acat.fits
+ -- Finished SEGUE-2 / 3189 : Time = 0:04:19.544067
+-- Working on SEGUE-2 / 3297
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3297/acat.fits
+ -- Finished SEGUE-2 / 3297 : Time = 0:03:06.213205
+-- Working on SEGUE-2 / 3207
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+12.0_+15.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+15.0_+20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3207/acat.fits
+ -- Finished SEGUE-2 / 3207 : Time = 0:12:42.617044
+-- Working on SEGUE-2 / 3251
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3251/acat.fits
+ -- Finished SEGUE-2 / 3251 : Time = 0:03:06.045161
+-- Working on SEGUE-2 / 3454
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3454/acat.fits
+ -- Finished SEGUE-2 / 3454 : Time = 0:03:03.585002
+-- Working on SEGUE-2 / 3176
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3176/acat.fits
+ -- Finished SEGUE-2 / 3176 : Time = 0:03:04.067501
+-- Working on SEGUE-2 / 3208
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3208/acat.fits
+ -- Finished SEGUE-2 / 3208 : Time = 0:04:17.430552
+-- Working on SEGUE-2 / 3467
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3467/acat.fits
+ -- Finished SEGUE-2 / 3467 : Time = 0:03:03.640596
+-- Working on SEGUE-2 / 3292
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3292/acat.fits
+ -- Finished SEGUE-2 / 3292 : Time = 0:04:17.601279
+-- Working on SEGUE-2 / 3459
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3459/acat.fits
+ -- Finished SEGUE-2 / 3459 : Time = 0:05:18.295718
+-- Working on SEGUE-2 / 3153
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3153/acat.fits
+ -- Finished SEGUE-2 / 3153 : Time = 0:06:37.254416
+-- Working on SEGUE-2 / 3121
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 3 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-33.0_-32.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-32.0_-30.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3121/acat.fits
+ -- Finished SEGUE-2 / 3121 : Time = 0:05:30.278693
+-- Working on SEGUE-2 / 3335
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 4 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+06.0_+07.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+07.0_+08.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+08.0_+09.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+09.0_+10.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3335/acat.fits
+ -- Finished SEGUE-2 / 3335 : Time = 0:21:16.335786
+-- Working on SEGUE-2 / 3195
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3195/acat.fits
+ -- Finished SEGUE-2 / 3195 : Time = 0:04:21.114642
+-- Working on SEGUE-2 / 3242
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3242/acat.fits
+ -- Finished SEGUE-2 / 3242 : Time = 0:03:07.453321
+-- Working on SEGUE-2 / 3116
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3116/acat.fits
+ -- Finished SEGUE-2 / 3116 : Time = 0:03:11.591040
+-- Working on SEGUE-2 / 3244
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3244/acat.fits
+ -- Finished SEGUE-2 / 3244 : Time = 0:03:03.506529
+-- Working on SEGUE-2 / 3225
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3225/acat.fits
+ -- Finished SEGUE-2 / 3225 : Time = 0:04:17.405727
+-- Working on SEGUE-2 / 3318
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3318/acat.fits
+ -- Finished SEGUE-2 / 3318 : Time = 0:03:03.102666
+-- Working on SEGUE-2 / 3173
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3173/acat.fits
+ -- Finished SEGUE-2 / 3173 : Time = 0:03:03.333785
+-- Working on SEGUE-2 / 3240
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3240/acat.fits
+ -- Finished SEGUE-2 / 3240 : Time = 0:03:03.673057
+-- Working on SEGUE-2 / 3183
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3183/acat.fits
+ -- Finished SEGUE-2 / 3183 : Time = 0:06:23.023319
+-- Working on SEGUE-2 / 3298
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3298/acat.fits
+ -- Finished SEGUE-2 / 3298 : Time = 0:02:22.534824
+-- Working on SEGUE-2 / 3145
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3145/acat.fits
+ -- Finished SEGUE-2 / 3145 : Time = 0:03:09.983295
+-- Working on SEGUE-2 / 3290
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3290/acat.fits
+ -- Finished SEGUE-2 / 3290 : Time = 0:06:31.219624
+-- Working on SEGUE-2 / 3228
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3228/acat.fits
+ -- Finished SEGUE-2 / 3228 : Time = 0:04:16.599113
+-- Working on SEGUE-2 / 3304
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3304/acat.fits
+ -- Finished SEGUE-2 / 3304 : Time = 0:03:02.794705
+-- Working on SEGUE-2 / 3312
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3312/acat.fits
+ -- Finished SEGUE-2 / 3312 : Time = 0:03:03.432882
+-- Working on SEGUE-2 / 3179
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3179/acat.fits
+ -- Finished SEGUE-2 / 3179 : Time = 0:03:03.304592
+-- Working on SEGUE-2 / 3386
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3386/acat.fits
+ -- Finished SEGUE-2 / 3386 : Time = 0:03:02.739374
+-- Working on SEGUE-2 / 3158
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-32.0_-30.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3158/acat.fits
+ -- Finished SEGUE-2 / 3158 : Time = 0:04:32.983328
+-- Working on SEGUE-2 / 3174
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3174/acat.fits
+ -- Finished SEGUE-2 / 3174 : Time = 0:06:37.797979
+-- Working on SEGUE-2 / 3375
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3375/acat.fits
+ -- Finished SEGUE-2 / 3375 : Time = 0:03:02.711776
+-- Working on SEGUE-2 / 3308
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3308/acat.fits
+ -- Finished SEGUE-2 / 3308 : Time = 0:03:02.791271
+-- Working on SEGUE-2 / 3326
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3326/acat.fits
+ -- Finished SEGUE-2 / 3326 : Time = 0:03:02.773560
+-- Working on SEGUE-2 / 3151
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3151/acat.fits
+ -- Finished SEGUE-2 / 3151 : Time = 0:02:16.719656
+-- Working on SEGUE-2 / 3187
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 3 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-33.0_-32.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-32.0_-30.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3187/acat.fits
+ -- Finished SEGUE-2 / 3187 : Time = 0:05:22.160903
+-- Working on SEGUE-2 / 3311
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3311/acat.fits
+ -- Finished SEGUE-2 / 3311 : Time = 0:03:03.397688
+-- Working on SEGUE-2 / 3310
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3310/acat.fits
+ -- Finished SEGUE-2 / 3310 : Time = 0:03:03.259771
+-- Working on SEGUE-2 / 3457
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3457/acat.fits
+ -- Finished SEGUE-2 / 3457 : Time = 0:02:17.433040
+-- Working on SEGUE-2 / 3106
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3106/acat.fits
+ -- Finished SEGUE-2 / 3106 : Time = 0:03:06.417716
+-- Working on SEGUE-2 / 3233
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3233/acat.fits
+ -- Finished SEGUE-2 / 3233 : Time = 0:03:01.505750
+-- Working on SEGUE-2 / 3288
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3288/acat.fits
+ -- Finished SEGUE-2 / 3288 : Time = 0:05:15.670240
+-- Working on SEGUE-2 / 3426
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3426/acat.fits
+ -- Finished SEGUE-2 / 3426 : Time = 0:06:29.290088
+-- Working on SEGUE-2 / 3429
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3429/acat.fits
+ -- Finished SEGUE-2 / 3429 : Time = 0:03:02.480957
+-- Working on SEGUE-2 / 3314
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3314/acat.fits
+ -- Finished SEGUE-2 / 3314 : Time = 0:03:01.820957
+-- Working on SEGUE-2 / 3388
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3388/acat.fits
+ -- Finished SEGUE-2 / 3388 : Time = 0:03:02.085990
+-- Working on SEGUE-2 / 3162
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+20.0_+25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3162/acat.fits
+ -- Finished SEGUE-2 / 3162 : Time = 0:08:07.139936
+-- Working on SEGUE-2 / 3255
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3255/acat.fits
+ -- Finished SEGUE-2 / 3255 : Time = 0:03:03.407912
+-- Working on SEGUE-2 / 3296
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3296/acat.fits
+ -- Finished SEGUE-2 / 3296 : Time = 0:03:03.858415
+-- Working on SEGUE-2 / 3226
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+20.0_+25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3226/acat.fits
+ -- Finished SEGUE-2 / 3226 : Time = 0:08:00.765681
+-- Working on SEGUE-2 / 3235
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3235/acat.fits
+ -- Finished SEGUE-2 / 3235 : Time = 0:03:00.765704
+-- Working on SEGUE-2 / 3300
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3300/acat.fits
+ -- Finished SEGUE-2 / 3300 : Time = 0:03:01.053819
+-- Working on SEGUE-2 / 3141
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3141/acat.fits
+ -- Finished SEGUE-2 / 3141 : Time = 0:03:14.599306
+-- Working on SEGUE-2 / 3221
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3221/acat.fits
+ -- Finished SEGUE-2 / 3221 : Time = 0:03:00.528830
+-- Working on SEGUE-2 / 3206
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+12.0_+15.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+15.0_+20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3206/acat.fits
+ -- Finished SEGUE-2 / 3206 : Time = 0:12:44.893062
+-- Working on SEGUE-2 / 3133
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3133/acat.fits
+ -- Finished SEGUE-2 / 3133 : Time = 0:03:11.885610
+-- Working on SEGUE-2 / 3214
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3214/acat.fits
+ -- Finished SEGUE-2 / 3214 : Time = 0:03:02.147472
+-- Working on SEGUE-2 / 3295
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3295/acat.fits
+ -- Finished SEGUE-2 / 3295 : Time = 0:03:01.982861
+-- Working on SEGUE-2 / 3192
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3192/acat.fits
+ -- Finished SEGUE-2 / 3192 : Time = 0:02:19.140697
+-- Working on SEGUE-2 / 3407
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3407/acat.fits
+ -- Finished SEGUE-2 / 3407 : Time = 0:03:02.163826
+-- Working on SEGUE-2 / 3181
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3181/acat.fits
+ -- Finished SEGUE-2 / 3181 : Time = 0:03:00.350625
+-- Working on SEGUE-2 / 3428
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3428/acat.fits
+ -- Finished SEGUE-2 / 3428 : Time = 0:03:00.786326
+-- Working on SEGUE-2 / 3143
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3143/acat.fits
+ -- Finished SEGUE-2 / 3143 : Time = 0:03:04.498838
+-- Working on SEGUE-2 / 3408
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3408/acat.fits
+ -- Finished SEGUE-2 / 3408 : Time = 0:03:00.725461
+-- Working on SEGUE-2 / 3427
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3427/acat.fits
+ -- Finished SEGUE-2 / 3427 : Time = 0:02:15.728316
+-- Working on SEGUE-2 / 3137
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-25.0_-20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3137/acat.fits
+ -- Finished SEGUE-2 / 3137 : Time = 0:07:20.433720
+-- Working on SEGUE-2 / 3148
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3148/acat.fits
+ -- Finished SEGUE-2 / 3148 : Time = 0:06:40.077021
+-- Working on SEGUE-2 / 3224
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3224/acat.fits
+ -- Finished SEGUE-2 / 3224 : Time = 0:03:04.263150
+-- Working on SEGUE-2 / 3319
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3319/acat.fits
+ -- Finished SEGUE-2 / 3319 : Time = 0:02:19.221660
+-- Working on SEGUE-2 / 3194
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3194/acat.fits
+ -- Finished SEGUE-2 / 3194 : Time = 0:03:02.572125
+-- Working on SEGUE-2 / 3252
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3252/acat.fits
+ -- Finished SEGUE-2 / 3252 : Time = 0:03:02.486372
+-- Working on SEGUE-2 / 3154
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3154/acat.fits
+ -- Finished SEGUE-2 / 3154 : Time = 0:02:16.659626
+-- Working on SEGUE-2 / 3263
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3263/acat.fits
+ -- Finished SEGUE-2 / 3263 : Time = 0:03:02.522489
+-- Working on SEGUE-2 / 3480
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3480/acat.fits
+ -- Finished SEGUE-2 / 3480 : Time = 0:02:16.643349
+-- Working on SEGUE-2 / 3289
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3289/acat.fits
+ -- Finished SEGUE-2 / 3289 : Time = 0:05:16.755010
+-- Working on SEGUE-2 / 3303
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3303/acat.fits
+ -- Finished SEGUE-2 / 3303 : Time = 0:03:02.594384
+-- Working on SEGUE-2 / 3321
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3321/acat.fits
+ -- Finished SEGUE-2 / 3321 : Time = 0:03:02.898643
+-- Working on SEGUE-2 / 3328
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3328/acat.fits
+ -- Finished SEGUE-2 / 3328 : Time = 0:03:02.701000
+-- Working on SEGUE-2 / 3184
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3184/acat.fits
+ -- Finished SEGUE-2 / 3184 : Time = 0:03:10.811339
+-- Working on SEGUE-2 / 3135
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3135/acat.fits
+ -- Finished SEGUE-2 / 3135 : Time = 0:03:18.606945
+-- Working on SEGUE-2 / 3264
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3264/acat.fits
+ -- Finished SEGUE-2 / 3264 : Time = 0:05:20.078795
+-- Working on SEGUE-2 / 3287
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3287/acat.fits
+ -- Finished SEGUE-2 / 3287 : Time = 0:03:02.455636
+-- Working on SEGUE-2 / 3466
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3466/acat.fits
+ -- Finished SEGUE-2 / 3466 : Time = 0:03:02.924108
+-- Working on SEGUE-2 / 3209
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-25.0_-20.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3209/acat.fits
+ -- Finished SEGUE-2 / 3209 : Time = 0:07:28.635917
+-- Working on SEGUE-2 / 3384
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3384/acat.fits
+ -- Finished SEGUE-2 / 3384 : Time = 0:03:05.911382
+-- Working on SEGUE-2 / 3126
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3126/acat.fits
+ -- Finished SEGUE-2 / 3126 : Time = 0:03:07.483159
+-- Working on SEGUE-2 / 3149
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3149/acat.fits
+ -- Finished SEGUE-2 / 3149 : Time = 0:02:17.673190
+-- Working on SEGUE-2 / 3374
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3374/acat.fits
+ -- Finished SEGUE-2 / 3374 : Time = 0:03:02.871400
+-- Working on SEGUE-2 / 3155
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3155/acat.fits
+ -- Finished SEGUE-2 / 3155 : Time = 0:03:02.891614
+-- Working on SEGUE-2 / 3177
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3177/acat.fits
+ -- Finished SEGUE-2 / 3177 : Time = 0:03:03.299059
+-- Working on SEGUE-2 / 3178
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3178/acat.fits
+ -- Finished SEGUE-2 / 3178 : Time = 0:03:03.216657
+-- Working on SEGUE-2 / 3291
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3291/acat.fits
+ -- Finished SEGUE-2 / 3291 : Time = 0:02:17.718161
+-- Working on SEGUE-2 / 3248
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3248/acat.fits
+ -- Finished SEGUE-2 / 3248 : Time = 0:03:03.310729
+-- Working on SEGUE-2 / 3157
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3157/acat.fits
+ -- Finished SEGUE-2 / 3157 : Time = 0:03:13.765125
+-- Working on SEGUE-2 / 3146
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3146/acat.fits
+ -- Finished SEGUE-2 / 3146 : Time = 0:03:12.027010
+-- Working on SEGUE-2 / 3232
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3232/acat.fits
+ -- Finished SEGUE-2 / 3232 : Time = 0:03:01.246175
+-- Working on SEGUE-2 / 3313
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3313/acat.fits
+ -- Finished SEGUE-2 / 3313 : Time = 0:03:01.081307
+-- Working on SEGUE-2 / 3212
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3212/acat.fits
+ -- Finished SEGUE-2 / 3212 : Time = 0:05:17.353934
+-- Working on SEGUE-2 / 3115
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3115/acat.fits
+ -- Finished SEGUE-2 / 3115 : Time = 0:06:15.804764
+-- Working on SEGUE-2 / 3198
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3198/acat.fits
+ -- Finished SEGUE-2 / 3198 : Time = 0:03:07.090106
+-- Working on SEGUE-2 / 3306
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3306/acat.fits
+ -- Finished SEGUE-2 / 3306 : Time = 0:03:02.356128
+-- Working on SEGUE-2 / 3229
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3229/acat.fits
+ -- Finished SEGUE-2 / 3229 : Time = 0:06:36.108470
+-- Working on SEGUE-2 / 3127
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3127/acat.fits
+ -- Finished SEGUE-2 / 3127 : Time = 0:03:05.092833
+-- Working on SEGUE-2 / 3159
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3159/acat.fits
+ -- Finished SEGUE-2 / 3159 : Time = 0:03:05.094742
+-- Working on SEGUE-2 / 3123
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-30.0_-25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3123/acat.fits
+ -- Finished SEGUE-2 / 3123 : Time = 0:03:02.097969
+-- Working on SEGUE-2 / 3387
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3387/acat.fits
+ -- Finished SEGUE-2 / 3387 : Time = 0:03:01.624783
+-- Working on SEGUE-2 / 3166
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+20.0_+25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3166/acat.fits
+ -- Finished SEGUE-2 / 3166 : Time = 0:08:05.525907
+-- Working on SEGUE-2 / 3105
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3105/acat.fits
+ -- Finished SEGUE-2 / 3105 : Time = 0:03:07.867658
+-- Working on SEGUE-2 / 3169
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3169/acat.fits
+ -- Finished SEGUE-2 / 3169 : Time = 0:03:02.727299
+-- Working on SEGUE-2 / 3373
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3373/acat.fits
+ -- Finished SEGUE-2 / 3373 : Time = 0:06:30.151862
+-- Working on SEGUE-2 / 3258
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3258/acat.fits
+ -- Finished SEGUE-2 / 3258 : Time = 0:03:01.870916
+-- Working on SEGUE-2 / 3241
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 3 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-35.0_-33.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-33.0_-32.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3241/acat.fits
+ -- Finished SEGUE-2 / 3241 : Time = 0:05:37.991014
+-- Working on SEGUE-2 / 3293
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3293/acat.fits
+ -- Finished SEGUE-2 / 3293 : Time = 0:04:16.813214
+-- Working on SEGUE-2 / 3156
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3156/acat.fits
+ -- Finished SEGUE-2 / 3156 : Time = 0:03:13.400991
+-- Working on SEGUE-2 / 3253
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3253/acat.fits
+ -- Finished SEGUE-2 / 3253 : Time = 0:03:04.647396
+-- Working on SEGUE-2 / 3286
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3286/acat.fits
+ -- Finished SEGUE-2 / 3286 : Time = 0:04:17.800785
+-- Working on SEGUE-2 / 3215
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3215/acat.fits
+ -- Finished SEGUE-2 / 3215 : Time = 0:03:03.746490
+-- Working on SEGUE-2 / 3230
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3230/acat.fits
+ -- Finished SEGUE-2 / 3230 : Time = 0:04:17.267908
+-- Working on SEGUE-2 / 3305
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3305/acat.fits
+ -- Finished SEGUE-2 / 3305 : Time = 0:03:03.189103
+-- Working on SEGUE-2 / 3129
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3129/acat.fits
+ -- Finished SEGUE-2 / 3129 : Time = 0:03:13.594440
+-- Working on SEGUE-2 / 3362
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3362/acat.fits
+ -- Finished SEGUE-2 / 3362 : Time = 0:06:27.558825
+-- Working on SEGUE-2 / 3167
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3167/acat.fits
+ -- Finished SEGUE-2 / 3167 : Time = 0:02:16.368437
+-- Working on SEGUE-2 / 3265
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3265/acat.fits
+ -- Finished SEGUE-2 / 3265 : Time = 0:03:04.080339
+-- Working on SEGUE-2 / 3186
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3186/acat.fits
+ -- Finished SEGUE-2 / 3186 : Time = 0:03:09.802206
+-- Working on SEGUE-2 / 3111
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3111/acat.fits
+ -- Finished SEGUE-2 / 3111 : Time = 0:03:06.382843
+-- Working on SEGUE-2 / 3395
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3395/acat.fits
+ -- Finished SEGUE-2 / 3395 : Time = 0:03:02.099266
+-- Working on SEGUE-2 / 3112
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3112/acat.fits
+ -- Finished SEGUE-2 / 3112 : Time = 0:03:06.295600
+-- Working on SEGUE-2 / 3213
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3213/acat.fits
+ -- Finished SEGUE-2 / 3213 : Time = 0:03:01.741043
+-- Working on SEGUE-2 / 3193
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3193/acat.fits
+ -- Finished SEGUE-2 / 3193 : Time = 0:03:01.704845
+-- Working on SEGUE-2 / 3205
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+20.0_+25.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3205/acat.fits
+ -- Finished SEGUE-2 / 3205 : Time = 0:03:51.518310
+-- Working on SEGUE-2 / 3128
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-45.0_-35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3128/acat.fits
+ -- Finished SEGUE-2 / 3128 : Time = 0:03:18.671905
+-- Working on SEGUE-2 / 3249
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3249/acat.fits
+ -- Finished SEGUE-2 / 3249 : Time = 0:03:05.278535
+-- Working on SEGUE-2 / 3307
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3307/acat.fits
+ -- Finished SEGUE-2 / 3307 : Time = 0:03:05.172625
+-- Working on SEGUE-2 / 3478
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3478/acat.fits
+ -- Finished SEGUE-2 / 3478 : Time = 0:03:04.809020
+-- Working on SEGUE-2 / 3331
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3331/acat.fits
+ -- Finished SEGUE-2 / 3331 : Time = 0:03:04.886111
+-- Working on SEGUE-2 / 3260
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3260/acat.fits
+ -- Finished SEGUE-2 / 3260 : Time = 0:03:02.326600
+-- Working on SEGUE-2 / 3404
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3404/acat.fits
+ -- Finished SEGUE-2 / 3404 : Time = 0:03:00.912867
+-- Working on SEGUE-2 / 3380
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3380/acat.fits
+ -- Finished SEGUE-2 / 3380 : Time = 0:03:00.692505
+-- Working on SEGUE-2 / 3144
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3144/acat.fits
+ -- Finished SEGUE-2 / 3144 : Time = 0:03:05.281983
+-- Working on SEGUE-2 / 3188
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+25.0_+35.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3188/acat.fits
+ -- Finished SEGUE-2 / 3188 : Time = 0:04:20.304192
+-- Working on SEGUE-2 / 3262
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3262/acat.fits
+ -- Finished SEGUE-2 / 3262 : Time = 0:03:02.397342
+-- Working on SEGUE-2 / 3142
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-90.0_-45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3142/acat.fits
+ -- Finished SEGUE-2 / 3142 : Time = 0:03:06.868519
+-- Working on SEGUE-2 / 3231
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 3 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-35.0_-33.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-33.0_-32.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b-32.0_-30.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3231/acat.fits
+ -- Finished SEGUE-2 / 3231 : Time = 0:03:55.850293
+-- Working on SEGUE-2 / 3320
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3320/acat.fits
+ -- Finished SEGUE-2 / 3320 : Time = 0:03:04.808951
+-- Working on SEGUE-2 / 3368
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3368/acat.fits
+ -- Finished SEGUE-2 / 3368 : Time = 0:03:04.856965
+-- Working on SEGUE-2 / 3284
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 1 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3284/acat.fits
+ -- Finished SEGUE-2 / 3284 : Time = 0:02:22.446788
+-- Working on SEGUE-2 / 3294
+... Reading in data
+... Building SEGUE SkyCoords
+... Finiding which mcats are needed
+... Need 2 mcat files
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+35.0_+45.0.fits.gz
+... Generate SkyCoords
+... Do search
+... Read in /n/holystore01/LABS/conroy_lab/Lab/gaia/edr3/gall2/catalogs/gall2_EDR3_b+45.0_+90.0.fits.gz
+... Generate SkyCoords
+... Do search
+... writing acat file: /n/holystore01/LABS/conroy_lab/Lab/SEGUE//SEGUE-2/3294/acat.fits
+ -- Finished SEGUE-2 / 3294 : Time = 0:05:20.419492

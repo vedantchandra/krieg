@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH -J SEGUE-2
+#SBATCH -n 1 # Number of cores requested
+#SBATCH -N 1 # Ensure that all cores are on one machine
+#SBATCH -t 24:00:00 # Runtime
+#SBATCH --mem 128000 # Memory
+#SBATCH --constraint=intel
+#SBATCH -p conroy_priority # Partition to submit to
+#SBATCH -o /n/holystore01/LABS/conroy_lab/Lab/SEGUE/code/mkacatSEGUE2_%A.out
+#SBATCH -e /n/holystore01/LABS/conroy_lab/Lab/SEGUE/code/mkacatSEGUE2_%A.err
+#SBATCH --open-mode=append
+
+cd /n/holystore01/LABS/conroy_lab/Lab/SEGUE/code/
+echo 'CPU USED: ' 
+cat /proc/cpuinfo | grep 'model name' | head -n 1
+echo $(date)
+
+python buildacts.py SEGUE-2

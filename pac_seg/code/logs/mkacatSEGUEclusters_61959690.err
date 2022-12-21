@@ -1,0 +1,1 @@
+WARNING: leap-second auto-update failed due to the following exception: RuntimeError('Cache is locked after 5.01 s. This may indicate an astropy bug or that kill -9 was used. If you want to unlock the cache remove the directory /n/home02/pacargile/.astropy/cache/download/py3/lock.',) [astropy.time.core]

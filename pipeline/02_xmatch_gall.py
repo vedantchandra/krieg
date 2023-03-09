@@ -11,10 +11,11 @@ from astropy.coordinates import SkyCoord
 import sys
 
 print('starting script')
-
+with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
+	redux = file.read().replace('\n','')
 #infile = '/n/holyscratch01/conroy_lab/vchandra/mage/MS/ms_input/source_ids.txt'
 
-infile = '/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/spAll_halo.fits'
+infile = '/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/spAll_halo_%s.fits' % redux
 outfolder = '/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/xgall/'
 
 try:
@@ -66,4 +67,4 @@ del tab
 
 print('output table has %i rows' % len(outtab))
 print('writing output!')
-outtab.write(outfolder + 'mwmhalo_xgall_%i.fits' % galidx, overwrite = True)
+outtab.write(outfolder + 'mwmhalo_xgall_%s_%i.fits' % (redux, galidx), overwrite = True)

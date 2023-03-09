@@ -17,7 +17,7 @@ with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r
 def getdata(GaiaID = None, field = None, mjd = None, acat_id = None,
     mask_hbeta = False):    
     
-    acat = Table.read(datadir + 'catalogs/mwmhalo_acat.fits')
+    acat = Table.read(datadir + 'catalogs/mwmhalo_acat_%s.fits' % redux)
     acat = acat.filled(99.0)
     
     if acat_id is not None:

@@ -14,6 +14,9 @@ import argparse
 
 outdir  = '/n/holyscratch01/conroy_lab/vchandra/sdss5/'
 
+with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
+    redux = file.read().replace('\n','')
+
 class mkrcat(object):
     """docstring for mkrcat"""
     def __init__(self, catalog, version, runtype, outfile):
@@ -21,6 +24,7 @@ class mkrcat(object):
         self.catalog = catalog
         self.version  = version
         self.runtype  = runtype
+        self.redux = redux
         
         self.outfile = outfile
         
@@ -261,7 +265,7 @@ class mkrcat(object):
       
     def run(self):
         # copy acat to rcat
-        acat = Table.read(outdir + 'catalogs/%s_acat.fits' % self.catalog,format='fits')
+        acat = Table.read(outdir + 'catalogs/%s_acat_%s.fits' % (self.catalog, self.redux),format='fits')
         rcat = acat.copy()
         del acat
 

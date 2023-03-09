@@ -4,6 +4,10 @@ import time
 import sys
 import os
 import numpy as np
+import socket
+from tqdm import tqdm
+
+socket.setdefaulttimeout(5)
 
 with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
 	redux = file.read().replace('\n','')
@@ -13,7 +17,7 @@ try:
 except:
 	print('spectro redux directory already exists')
 
-halo = Table.read('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/spAll_halo.fits')
+halo = Table.read('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/spAll_halo_%s.fits' % redux)
 
 with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/halocartons.txt', 'r') as file:
     halocartons = file.read().splitlines()
@@ -21,9 +25,9 @@ with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/halocartons.tx
 print('There are %i spectra from %i cartons' % (len(halo), len(halocartons)))
 def make_boss_download_location(r):
 	#field, mjd, spec_file = row["FIELD","MJD","SPEC_FILE"]
-	return f"https://data.sdss5.org/sas/sdsswork/bhm/boss/spectro/redux/%s/spectra/lite/{r['FIELD']:06}/{r['MJD']}/{r['SPEC_FILE'].strip()}" % redux
+	return f"https://data.sdss5.org/sas/ipl-2/spectro/boss/redux/%s/spectra/lite/{r['FIELD']:06}/{r['MJD']}/{r['SPEC_FILE'].strip()}" % redux
 auth_user = 'sdss5'
-auth_passwd = 'panoptic-5'
+auth_passwd = 'panoPtic-5'
 outfolder = '/n/holyscratch01/conroy_lab/vchandra/sdss5/spectra/%s/' % redux
 start = time.time()
 		
@@ -56,7 +60,7 @@ outfile_names = [
 	]
 
 
-for i, (inpath, outpath) in enumerate(zip(download_names, outfile_names)):
+for i, (inpath, outpath) in enumerate(tqdm(zip(download_names, outfile_names))):
 	
 	success = False
 
@@ -64,7 +68,7 @@ for i, (inpath, outpath) in enumerate(zip(download_names, outfile_names)):
 		print('%i done...' % i)   
 
 	if os.path.exists(outpath):
-		#print('spectrum %s exists, skipping...' % outpath)
+		print('spectrum %s exists, skipping...' % outpath)
 		continue
 	ntry = 0
 	while not success:

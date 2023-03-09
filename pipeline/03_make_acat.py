@@ -6,10 +6,12 @@ from tqdm import tqdm
 import numpy as np
 import glob
 
-infiles = glob.glob('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/xgall/*.fits')
+
 
 with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
 	redux = file.read().replace('\n','')
+
+infiles = glob.glob('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/xgall/*%s*.fits' % redux)
 
 acat = Table()
 
@@ -34,5 +36,33 @@ print('%i stars out of %i in ACAT have downloaded spectra...' % (np.sum(has_spec
 acat.remove_columns(['UNWISE_FRACFLUX', 'UNWISE_FLAGS', 'UNWISE_INFO_FLAGS'])
 
 acat['ACAT_ID'] = np.arange(len(acat))
+print('writing acat...')
+acat.write('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/mwmhalo_acat_%s.fits' % redux, overwrite = True)
 
-acat.write('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/mwmhalo_acat.fits', overwrite = True)
+print('making clean acat..')
+
+clean = (
+    (acat['SN_MEDIAN_ALL'] > 10)
+)
+
+acat_clean = acat[clean]
+
+print('%i stars in clean acat' % len(acat_clean))
+acat_clean.write('/n/holyscratch01/conroy_lab/vchandra/sdss5/catalogs/mwmhalo_clean_acat_%s.fits' % redux, overwrite = True)
+
+print('making xh3 acat...')
+
+rcat = Table.read('/n/holystore01/LABS/conroy_lab/Lab/h3/catalogs/rcat_V4.0.5.latest_MSG.h5')
+
+import astropy
+
+for key in list(rcat.columns):
+    rcat.rename_column(key, 'h3_' + key)
+
+rcat['GAIAEDR3_ID'] = rcat['h3_GAIAEDR3_ID']
+
+xh3 = astropy.table.join(acat, rcat, keys = 'GAIAEDR3_ID')
+
+print('there are %i stars in common with H3' % len(xh3))
+
+xh3.write(datadir + 'catalogs/mwmhalo_xh3_acat_%s.fits' % redux, overwrite = True)

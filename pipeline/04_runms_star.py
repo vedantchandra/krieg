@@ -2,9 +2,11 @@ from astropy.table import Table
 import sys,argparse
 import os
 
-
-
 datadir = '/n/holyscratch01/conroy_lab/vchandra/sdss5/'
+
+with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
+    redux = file.read().replace('\n','')
+
 
 def run(catalog=None,ind=None,version='V0.0', npoints = 250, skipfit = 0):
 
@@ -14,7 +16,7 @@ def run(catalog=None,ind=None,version='V0.0', npoints = 250, skipfit = 0):
     import corner
     import calcpars
 
-    mattab = Table.read(datadir + 'catalogs/' + catalog + '_acat.fits', format='fits')
+    mattab = Table.read(datadir + 'catalogs/' + catalog + '_acat_%s.fits' % redux, format='fits')
     mattab_i = mattab[ind]
     gaiaID  = mattab_i['GAIAEDR3_ID']
     field=mattab_i['FIELD']

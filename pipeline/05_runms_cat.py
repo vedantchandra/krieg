@@ -5,6 +5,8 @@ import os
 datadir = '/n/holyscratch01/conroy_lab/vchandra/sdss5/'
 pipedir = '/n/home03/vchandra/outerhalo/09_sdss5/pipeline/'
 
+with open('/n/home03/vchandra/outerhalo/09_sdss5/pipeline/control/redux.txt', 'r') as file:
+    redux = file.read().replace('\n','')
 
 if __name__ == '__main__':
     
@@ -32,7 +34,7 @@ if __name__ == '__main__':
         print('please pass a valid catalog to use!')
         raise
 
-    acatpath = datadir + 'catalogs/' + catalog + '_acat.fits'
+    acatpath = datadir + 'catalogs/' + catalog + '_acat_%s.fits' % redux
     print('reading %s...' % acatpath)
 
     tab = Table.read(acatpath)
@@ -47,7 +49,7 @@ if __name__ == '__main__':
         print('logs dir exists for this catalog...')
 
 
-    print('submitting %i stars to MINESWEEPER...' % (arr2 - arr1))
+    print('submitting %i stars to MINESWEEPER...' % (arr2 - arr1 + 1))
 
     with open(pipedir + 'slurm/runms_template.txt', 'r') as f:
         script = f.readlines()

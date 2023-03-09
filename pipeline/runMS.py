@@ -176,52 +176,6 @@ def run(index=None,GaiaID=None,version='VX', npoints = 250,catalog = None,
     medflux = np.median(spec['FLUX'])
 
 
-    # # create the WRESL array
-    # # spec['WRESL'] = wresl_fudge * (spec['WAVE'] * spec['LSF']) / speedoflight
-    # spec['WRESL'] = wresl_fudge *  spec['LSF']
-
-    # # cond = (spec['WAVE'] > 3850.0) & (spec['WAVE'] < 8900.0)
-    # # spec['WAVE']   = spec['WAVE'][cond]
-    # # spec['FLUX']   = spec['FLUX'][cond]
-    # # spec['E_FLUX'] = spec['E_FLUX'][cond]
-    # # spec['WRESL']  = spec['WRESL'][cond]
-
-    # # cond = (spec['WAVE'] > 4000.0) & (spec['WAVE'] < 7000.0)
-    # # cond = (spec['WAVE'] > 5150.0) & (spec['WAVE'] < 5300.0)
-    # # cond = (spec['WAVE'] > 4455.0) & (spec['WAVE'] < 5645.0)
-    # # cond = (spec['WAVE'] > 5000.0) & (spec['WAVE'] < 5500.0)
-
-    # cond = (spec['WAVE'] > 4750.0) & (spec['WAVE'] < 5500.0)
-    # spec['WAVE']   = spec['WAVE'][cond]
-    # spec['FLUX']   = spec['FLUX'][cond]
-    # spec['E_FLUX'] = spec['E_FLUX'][cond]
-    # spec['WRESL']  = spec['WRESL'][cond]
-
-    # # # mask out H-beta
-    # # cond = (spec['WAVE'] < 4800.0) | (spec['WAVE'] > 4900.0)
-    # # spec['WAVE']   = spec['WAVE'][cond]
-    # # spec['FLUX']   = spec['FLUX'][cond]
-    # # spec['E_FLUX'] = spec['E_FLUX'][cond]
-    # # spec['WRESL']  = spec['WRESL'][cond]
-
-    # # # mask out Na doublet due to ISM absorption
-    # # cond = (spec['WAVE'] < 5850.0) | (spec['WAVE'] > 5950.0)
-    # # spec['WAVE']   = spec['WAVE'][cond]
-    # # spec['FLUX']   = spec['FLUX'][cond]
-    # # spec['E_FLUX'] = spec['E_FLUX'][cond]
-    # # spec['WRESL']  = spec['WRESL'][cond]
-
-    # # # mask out telluric features
-    # # cond = (spec['WAVE'] < 7500.0) | (spec['WAVE'] > 7700.0)
-    # # spec['WAVE']   = spec['WAVE'][cond]
-    # # spec['FLUX']   = spec['FLUX'][cond]
-    # # spec['E_FLUX'] = spec['E_FLUX'][cond]
-    # # spec['WRESL']  = spec['WRESL'][cond]
-
-    # medflux = np.median(spec['FLUX'])
-    # spec['FLUX']   = spec['FLUX']/medflux
-    # spec['E_FLUX'] = spec['E_FLUX']/medflux
-
     print('    ... Building Input Dict')
     # build input dict
     inputdict = {}
